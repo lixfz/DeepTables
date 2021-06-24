@@ -45,10 +45,6 @@ Please refer to the official docs at [https://deeptables.readthedocs.io/en/lates
 ```shell script
 pip install deeptables
 ```
-**GPU** Setup (Optional)
-```shell script
-pip install deeptables[gpu]
-```
 
 ***Verify the install***:
 ```shell script
